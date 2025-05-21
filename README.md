@@ -1,6 +1,7 @@
 ## Eai, me chamo Danilo e tenho forte interesse em tecnologia e programação!
 
-Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
+![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVitoria&show_icons=true&theme=transparent)
+
 
 
 <div style="display: inline_block"><br>
