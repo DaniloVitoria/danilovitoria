@@ -1,4 +1,4 @@
-## Eai, me chamo Danilo e tenho forte interesse em tecnologia e programação!
+## Me chamo Danilo e tenho forte interesse em tecnologia e programação!
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVitoria&show_icons=true&theme=transparent)
 
