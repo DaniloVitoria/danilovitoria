@@ -2,7 +2,7 @@
 
 ![Danilo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniloVitoria&show_icons=true&theme=transparent)
 
-<span> <img align="right" style="max-width: 200px; max-height: 200px; " alt="picture" src="./img/allanrds_creeate_a_image_chill_of_a_person_take_a_coffe_in_th_9be48a83-1426-4fc8-a2cd-75518dcf03b2_2.png"> </span>
+<span style="display: inline"> <img align="right" style="max-width: 200px; max-height: 200px; " alt="picture" src="./img/allanrds_creeate_a_image_chill_of_a_person_take_a_coffe_in_th_9be48a83-1426-4fc8-a2cd-75518dcf03b2_2.png"> </span>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Danilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
